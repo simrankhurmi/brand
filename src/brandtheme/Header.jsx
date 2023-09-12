@@ -1,4 +1,5 @@
 import React from 'react'
+import {logo} from './images'
 
 
 const Header = () => {
@@ -6,7 +7,7 @@ const Header = () => {
     <>
             <section className="header">
                 <section className="header_logo">
-                    <img src="./images/logo.png" alt="logo"/>
+                    <img src={logo} alt="logo"/>
                 </section>
                 <section className="header_menu">
                     <ul>

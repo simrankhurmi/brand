@@ -652,13 +652,15 @@ display: block;
   margin: auto;
   margin-top: 6px;
   border: 2px solid transparent;
+  font-size: 2em;
 }
-.form_heading > h2 {
+.form_heading > h1 {
   font-size: 80px;
   color: black;
   text-align: center;
+  font-size: 2em;
 }
-.form_subheading > h2 {
+.form_subheading > h1 {
   font-size: 80px;
   color: brown;
   text-align: center;
