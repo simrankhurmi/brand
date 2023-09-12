@@ -3,7 +3,7 @@ import React from 'react'
 const Client = () => {
   return (
 <>
-<section className="clients">
+<section className="clients" id="client1">
             <section className="clients_heading">
                 <h2>OUR CLIENTS</h2>
                 <strong> Brands That Work With Us</strong>

@@ -13,7 +13,7 @@ const Header = () => {
                     <ul>
                         <li><a href="">Blog</a></li>
                         <li><a href="">Services</a></li>
-                        <li><a href="">Clients</a></li>
+                        <li><a href="#client1">Clients</a></li>
                         <li><a href="">F.A.Q</a></li>
                         <li><a href="">Portfolio</a></li>
                         <li><a href="">Contacts</a></li>

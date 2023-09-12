@@ -1,4 +1,5 @@
 import React from 'react'
+import {i,ii,iii,iv,v,vi} from './images'
 
 const Work = () => {
   return (
@@ -12,27 +13,27 @@ const Work = () => {
             </section>
             <section className="work_content">
                 <section>
-                    <img src="./images/1.jpg" alt=""/>
+                    <img src={i}alt=""/>
                 </section>
 
                 <section>
-                    <img src="./images/2.jpg" alt=""/>
+                    <img src={ii} alt=""/>
                 </section>
 
                 <section>
-                    <img src="./images/3.jpg" alt=""/>
+                    <img src={iii} alt=""/>
                 </section>
 
                 <section>
-                    <img src="./images/4.jpg" alt=""/>
+                    <img src={iv} alt=""/>
                 </section>
 
                 <section>
-                    <img src="./images/5.jpg" alt=""/>
+                    <img src={v} alt=""/>
                 </section>
 
                 <section>
-                    <img src="./images/6.jpg" alt=""/>
+                    <img src={vi} alt=""/>
                 </section>
             </section>
 

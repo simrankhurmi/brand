@@ -1,4 +1,5 @@
 import React from 'react'
+import {n1, n2} from  './images'
 
 const ClientDetail = () => {
   return (
@@ -14,19 +15,19 @@ const ClientDetail = () => {
                 <section className="clientdetails_content--container">
                     <ul>
                         <li><a href="">
-                                <img src="./images/n1.png" alt=""/>
+                                <img src={n1} alt=""/>
                             </a></li>
                         <li><a href="">
-                                <img src="./images/n2.png" alt=""/>
+                                <img src={n2} alt=""/>
                             </a></li>
                         <li><a href="">
-                                <img src="./images/n1.png" alt=""/>
+                                <img src={n1} alt=""/>
                             </a></li>
                         <li><a href="">
-                                <img src="./images/n2.png" alt=""/>
+                                <img src={n2} alt=""/>
                             </a></li>
                         <li><a href="">
-                                <img src="./images/n1.png" alt=""/>
+                                <img src={n1} alt=""/>
                             </a></li>
                     </ul>
                 </section>

@@ -4,6 +4,7 @@
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
+  scroll-behavior: smooth;
 }
 
 main {
@@ -228,7 +229,7 @@ main {
 
 .services {
   background-color: #522c67;
-  height: 600px;
+  height: 400px;
   width: 100%;
   float: left;
 }
@@ -464,7 +465,7 @@ main {
 }
 .clientdetails {
   background-color: #5f0e38;
-  height: 550px;
+  height: 400px;
   width: 100%;
   float: left;
 }
@@ -789,6 +790,9 @@ footer > h3 {
   font-weight: 100;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
+
+
+/*  media query ---*/
 
 @media screen and (max-width: 1400px) {
   .marketing_content > figure {
