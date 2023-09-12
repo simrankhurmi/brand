@@ -12,27 +12,27 @@ const Work = () => {
             </section>
             <section className="work_content">
                 <section>
-                    <img src="../images/1.jpg" alt=""/>
+                    <img src="./images/1.jpg" alt=""/>
                 </section>
 
                 <section>
-                    <img src="../images/2.jpg" alt=""/>
+                    <img src="./images/2.jpg" alt=""/>
                 </section>
 
                 <section>
-                    <img src="../images/3.jpg" alt=""/>
+                    <img src="./images/3.jpg" alt=""/>
                 </section>
 
                 <section>
-                    <img src="../images/4.jpg" alt=""/>
+                    <img src="./images/4.jpg" alt=""/>
                 </section>
 
                 <section>
-                    <img src="../images/5.jpg" alt=""/>
+                    <img src="./images/5.jpg" alt=""/>
                 </section>
 
                 <section>
-                    <img src="../images/6.jpg" alt=""/>
+                    <img src="./images/6.jpg" alt=""/>
                 </section>
             </section>
 

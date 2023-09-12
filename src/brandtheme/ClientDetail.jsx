@@ -14,19 +14,19 @@ const ClientDetail = () => {
                 <section className="clientdetails_content--container">
                     <ul>
                         <li><a href="">
-                                <img src="../images/n1.png" alt=""/>
+                                <img src="./images/n1.png" alt=""/>
                             </a></li>
                         <li><a href="">
-                                <img src="../images/n2.png" alt=""/>
+                                <img src="./images/n2.png" alt=""/>
                             </a></li>
                         <li><a href="">
-                                <img src="../images/n1.png" alt=""/>
+                                <img src="./images/n1.png" alt=""/>
                             </a></li>
                         <li><a href="">
-                                <img src="../images/n2.png" alt=""/>
+                                <img src="./images/n2.png" alt=""/>
                             </a></li>
                         <li><a href="">
-                                <img src="../images/n1.png" alt=""/>
+                                <img src="./images/n1.png" alt=""/>
                             </a></li>
                     </ul>
                 </section>

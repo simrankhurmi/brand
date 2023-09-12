@@ -1,11 +1,12 @@
 import React from 'react'
 
+
 const Header = () => {
   return (
     <>
             <section className="header">
                 <section className="header_logo">
-                    <img src="../images/logo.png" alt="logo"/>
+                    <img src="./images/logo.png" alt="logo"/>
                 </section>
                 <section className="header_menu">
                     <ul>
