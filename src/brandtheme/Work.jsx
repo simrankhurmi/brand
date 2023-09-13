@@ -4,7 +4,7 @@ import {i,ii,iii,iv,v,vi} from './images'
 const Work = () => {
   return (
     <>
-    <section className="work">
+    <section className="work"  id='work'>
             <section className="work_heading">
                 <h3>OUR WORK</h3>
             </section>

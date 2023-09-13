@@ -3,7 +3,7 @@ import React from 'react'
 const BrandingQuests = () => {
   return (
    <>
-  <section className="brandingquest">
+  <section className="brandingquest" id='Brandingq'>
             <section className="brandingquest_heading">
                 <h3>BRANDING QUESTIONS</h3>
             </section>

@@ -4,7 +4,7 @@ import {n1, n2} from  './images'
 const ClientDetail = () => {
   return (
    <>
-    <section className="clientdetails">
+    <section className="clientdetails" id='Clientd'>
             <section className="clientdetails_heading">
                 <h5>OUR CLIENTS</h5>
             </section>
