@@ -3,7 +3,7 @@ import React from 'react'
 const Forms = () => {
   return (
     <>
-    <section className="form" id='Blog'>
+    <section className="form" id='contacts'>
             <section className="form_heading">
                 <h1>Interested in</h1>
             </section>
