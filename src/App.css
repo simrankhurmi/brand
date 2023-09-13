@@ -18,7 +18,7 @@ main {
   height: 100px;
   width: 100%;
   float: left; 
-  background-image: url(../public/images/theme.jpg);
+  background-image: url(brandtheme/images/theme.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -95,7 +95,7 @@ main {
   height: 400px;
   width: 100%;
   float: left;
-  background-image: url(../public/images/theme.jpg);
+  background-image: url(brandtheme/images/theme.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   padding: 5px;
@@ -140,7 +140,7 @@ main {
 }
 
 .marketing {
-  background-image: url(../public/images/background3.jpg);
+  background-image: url(brandtheme/images/background3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   /* background-color: #f2f2f2; */
@@ -364,7 +364,7 @@ main {
   width: 324px;
   float: left;
   margin: 10px 17px;
-  background-image: url(../public/images/bvgv.jpg);
+  background-image: url(brandtheme/images/bvgv.jpg);
   background-repeat: no-repeat;
   background-position: -121px;
 }
@@ -517,7 +517,7 @@ main {
   height: 600px;
   width: 100%;
   float: left;
-  background-image: url(../public/images/theme.jpg);
+  background-image: url(brandtheme/images/theme.jpg);
   background-size: cover;
 }
 .brandingquest_heading {
