@@ -1,5 +1,5 @@
 import React from 'react'
-import {p1, p2, p3} from './images'
+import {p1, p2, p3} from '../brandtheme/images'
 
 
 const MarketingSkills = () => {

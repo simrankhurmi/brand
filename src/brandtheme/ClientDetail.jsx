@@ -1,5 +1,5 @@
 import React from 'react'
-import {n1, n2} from  './images'
+import {n1, n2} from  '../brandtheme/images'
 
 const ClientDetail = () => {
   return (
