@@ -1,18 +1,23 @@
 {
   "files": {
-    "main.css": "/simrankhurmi/portfolio/static/css/main.445a23f2.css",
-    "main.js": "/simrankhurmi/portfolio/static/js/main.5ff577c9.js",
-    "static/js/787.1f11dfe9.chunk.js": "/simrankhurmi/portfolio/static/js/787.1f11dfe9.chunk.js",
-    "static/media/cv.png": "/simrankhurmi/portfolio/static/media/cv.33413d37f0b967080fcd.png",
-    "static/media/download.jpeg": "/simrankhurmi/portfolio/static/media/download.80939351112c71946aa0.jpeg",
-    "static/media/logo.svg": "/simrankhurmi/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/simrankhurmi/portfolio/index.html",
-    "main.445a23f2.css.map": "/simrankhurmi/portfolio/static/css/main.445a23f2.css.map",
-    "main.5ff577c9.js.map": "/simrankhurmi/portfolio/static/js/main.5ff577c9.js.map",
-    "787.1f11dfe9.chunk.js.map": "/simrankhurmi/portfolio/static/js/787.1f11dfe9.chunk.js.map"
+    "main.css": "/brand/static/css/main.4a46b22b.css",
+    "main.js": "/brand/static/js/main.b07551c7.js",
+    "static/js/787.2be75dcc.chunk.js": "/brand/static/js/787.2be75dcc.chunk.js",
+    "static/media/bvgv.jpg": "/brand/static/media/bvgv.4d23c9b8b7ee8d6d1dad.jpg",
+    "static/media/background3.jpg": "/brand/static/media/background3.72ce35922c8d5ace359e.jpg",
+    "static/media/bbjb.jpg": "/brand/static/media/bbjb.8e43f9d1cc5f65533cbf.jpg",
+    "static/media/photo-1622532832487-b18b9c7f23d3.jpg": "/brand/static/media/photo-1622532832487-b18b9c7f23d3.24fb249d4f54851c8e38.jpg",
+    "static/media/theme.jpg": "/brand/static/media/theme.5c95129ff41c806bdfb0.jpg",
+    "static/media/3.jpg": "/brand/static/media/3.1786ea302afcfa0af544.jpg",
+    "static/media/n2.png": "/brand/static/media/n2.09b438c7714c564ca186.png",
+    "static/media/4.jpg": "/brand/static/media/4.0db421b6f8ecac91236f.jpg",
+    "index.html": "/brand/index.html",
+    "main.4a46b22b.css.map": "/brand/static/css/main.4a46b22b.css.map",
+    "main.b07551c7.js.map": "/brand/static/js/main.b07551c7.js.map",
+    "787.2be75dcc.chunk.js.map": "/brand/static/js/787.2be75dcc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.445a23f2.css",
-    "static/js/main.5ff577c9.js"
+    "static/css/main.4a46b22b.css",
+    "static/js/main.b07551c7.js"
   ]
 }
